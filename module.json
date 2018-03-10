@@ -1,0 +1,72 @@
+{
+    "stname": "500kV木里变",
+    "device": "500kV木里变RCS992稳定控制装置",
+    "element_def": {
+        "ele_blocktitle": "<WARMAP_ELEDEF",
+        "ele_blocktail": "</WARMAP_ELEDEF",
+        "ele_id": 0,
+        "ele_name": 1,
+        "ele_mesooint": 2,
+        "ele_alias": 3
+    },
+    "section_def": {
+        "sec_blocktitle": "<WARMAP_SCSSECTION",
+        "sec_blocktail": "</WARMAP_SCSSECTION",
+        "sec_id": 0,
+        "sec_name": 1,
+        "sec_def": 2,
+        "sec_device": 3
+    },
+    "opmode_def": {
+        "mode_blocktitle": "<WARMAP_SCSOPMODE",
+        "mode_blocktail": "</WARMAP_SCSOPMODE",
+        "mode_id": 0,
+        "mode_device": 1,
+        "mode_name": 2,
+        "mode_def": 3
+    },
+    "fault_def": {
+        "flt_blocktitle": "<WARMAP_SCSFAULT",
+        "flt_blocktail": "</WARMAP_SCSFAULT",
+        "flt_id": 0,
+        "flt_dev": 1,
+        "flt_name": 2,
+        "flt_def": 3
+    },
+    "action_def": {
+        "act_blocktitle": "<WARMAP_SCSACT",
+        "act_blocktail": "</WARMAP_SCSACT",
+        "act_id": 0,
+        "act_name": 1,
+        "act_space": 2,
+        "act_ele": 3,
+        "act_dev": 4,
+        "act_ctltype": 5,
+        "act_valtye": 6,
+        "act_acttype": 7,
+        "act_delaytime": 8,
+        "act_level": 9,
+        "act_priorityrule": 10,
+        "act_bindact": 11,
+        "act_constraint": 12,
+        "act_discountfactor": 13
+    },
+    "tactics_def": {
+        "tac_blocktitle": "<WARMAP_SCSDECI",
+        "tac_blocktail": "</WARMAP_SCSDECI",
+        "tac_id": 0,
+        "tac_dev": 1,
+        "tac_desc": 2,
+        "tac_type": 3,
+        "tac_turn": 4,
+        "tac_relation": 5,
+        "tac_opmode": 6,
+        "tac_flt": 7,
+        "tac_power": 8,
+        "tac_ctrstep": 9,
+        "tac_priority": 10,
+        "tac_priorityrule": 11,
+        "tac_action": 12,
+        "tac_constraint": 13
+    }
+}
