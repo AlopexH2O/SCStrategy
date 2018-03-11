@@ -1,6 +1,4 @@
 {
-    "stname": "500kV木里变",
-    "device": "500kV木里变RCS992稳定控制装置",
     "element_def": {
         "ele_blocktitle": "<WARMAP_ELEDEF",
         "ele_blocktail": "</WARMAP_ELEDEF",
